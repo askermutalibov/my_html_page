@@ -1,0 +1,39 @@
+    p,
+    h1,
+    h2 
+    {
+      color: rgb(0, 0, 0);
+      width: 500px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+    }
+
+    html {
+      background-color: #ffffff00;
+    }
+
+    body {
+      width: 1000px;
+      margin: 0 auto;
+      background-color: #a8bfcd;
+      padding: 0 10px 10px 10px;
+      border: 2px solid rgb(105, 109, 143);
+    }
+
+    h1 {
+      margin: 0;
+      padding: 20px 0;
+    }
+
+    img {
+      display:block;
+      margin: 0 auto;
+    }
+
+    a {
+      color:rgb(70, 11, 54);
+      width: 500px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+    }
+
